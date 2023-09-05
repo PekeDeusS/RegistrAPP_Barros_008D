@@ -1,0 +1,15 @@
+ion-margin-top-custom {
+    margin-top: 40px; 
+  }
+
+  ion-button.ion-rounded {
+    border-radius: 20px; 
+  }
+
+  .app-logo {
+    max-width: 100px; /* Cambia el tamaño según tus necesidades */
+    width: auto;
+    height: auto;
+    margin: 0 auto; /* Centra la imagen horizontalmente */
+    display: block; /* Asegura que la imagen esté centrada horizontalmente */
+  }
